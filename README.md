@@ -24,6 +24,8 @@ In order to keep the project simple for both the interviewer and interviewees, t
 ### Ready to implement
 This project is ready to implement the algorithm given to the interviewee. It provides a Main class and a helper class template called Palindrome. You should implement your algorithm in the Palindrome class (renaming as appropriate) and call your class implementation from the Main class.
 
+Before submitting you should delete this README.md and replace it with README.sample, customizing it for your interview problem.
+
 ## Quick test writing
 Before or after you write your algorithm (depending on your TDD approach) you can quickly add tests for your code in the test/MainTest and test/PalindromeTest files. You should be sure that you cover all possible test cases before submitting.
 
